@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/shodee/app/BuildConfig.java
+ com.shodee.app.BuildConfig
